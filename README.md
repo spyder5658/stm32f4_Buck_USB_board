@@ -1,9 +1,12 @@
-# STM32F4-Based Board with Dual Power Supply and Protection Features
+# STM32F4-Based 4 layered Board with Dual Power Supply and Protection Features
 ## Overview
-This project features a custom STM32F4-based board designed for versatility and robust power management. The board is equipped with multiple power options, reverse polarity protection, a buck converter, and a power indicator LED, making it ideal for embedded system development in various environments.
+This project showcases a custom STM32F4-based board designed with robust power management and advanced PCB architecture. The board features dual power supply options, reverse polarity protection, a buck converter, and a power indicator LED. Additionally, it boasts a 4-layer PCB design, enhancing signal integrity and ensuring efficient power distribution, making it ideal for high-performance embedded systems.
 
 ## Key Features
 - Microcontroller: STM32F4 series (ARM Cortex-M4)
+- 4-Layer PCB Design:
+  - Improved signal integrity and EMI performance.
+  - Enhanced power distribution for more stable operation.
 - Dual Power Supply Options:
 - USB-powered for convenient operation.
 - Battery-powered for portable applications.
